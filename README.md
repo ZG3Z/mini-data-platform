@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5WTLG9j9)
-
 # Mini Data Platform w kontenerach Docker
 
 Platforma danych zbudowana w oparciu o kontenery Docker, która symuluje proces biznesowy, przetwarza dane przez PostgreSQL, Debezium, Kafka, Spark i przechowuje je w MinIO w formacie Delta Lake.
