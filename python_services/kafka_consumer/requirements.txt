@@ -1,0 +1,7 @@
+confluent-kafka[avro]==2.4.0
+httpx==0.28.1
+attrs==25.3.0
+cachetools==6.0.0
+authlib==1.6.0
+fastavro==1.11.1
+python-dotenv==1.1.0
